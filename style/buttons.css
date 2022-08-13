@@ -1,0 +1,107 @@
+
+/* buttons */
+
+.show-friend-btn:hover,
+.saving-btn:hover,
+.facebook-btn:hover{
+    opacity: 0.6;
+}
+
+.filter-btn:hover{
+color: orange;
+}
+
+i.guides {
+    font-style: normal;
+}
+
+.new-line-btn {
+    cursor: pointer;
+}
+
+.download-btn:hover {
+    cursor: pointer;
+    background-color: rgb(224, 183, 107);
+    color: rgba(9, 9, 9, 0.399);
+
+}
+
+.addLineIcon {
+    max-width: 8px;
+}
+
+.trashIcon {
+    cursor: pointer;
+}
+
+.saving-btn{
+    margin: 10px;
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.download-btn {
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.bottom-buttons {
+    margin-top: 20px;
+}
+
+.save-btn {
+    background-color: red;
+}
+
+
+.facebook-btn {
+    background-color: rgb(32, 94, 175);
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: aliceblue;
+}
+
+.filter-btn {
+    border: none;
+    background-color: inherit;
+}
+
+.menu {
+    font-size: 30px;
+    background-color: orange;
+    color: rgb(1, 8, 17);
+    border: none;
+}
+
+
+
+.show-friend-btn {
+    background-color: rgb(1, 8, 17);
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    color: aliceblue;
+}
+
+input[type=number] {
+    box-sizing: border-box;
+    width: 70px;
+}
+
+input[type=color] {
+    cursor: pointer;
+}
+
+input[type=option] {
+    cursor: pointer;
+}
+
+select {
+    cursor: pointer;
+}
